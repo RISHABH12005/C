@@ -1,4 +1,4 @@
-# *C*
+# *Computer Programming (C)*
 
 A *general-purpose programming language* that provides *low-level access* to memory & system resources. It is widely used for developing *operating systems, embedded systems,* & *performance-critical applications.*
 
